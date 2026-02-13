@@ -1,108 +1,66 @@
-# 💻 Programación Avanzada — Grupo 10 ️😁🤖
-
-## 🧾🧐 Descripción 
-Este repositorio contiene los proyectos, prácticas y materiales desarrollados durante la asignatura **Programación Avanzada** del programa de **Ingeniería Mecatrónica**.  
-
-El propósito de este espacio es fortalecer las competencias en **programación orientada a objetos, estructuras de datos, algoritmos avanzados y buenas prácticas de desarrollo**, fomentando el trabajo colaborativo y la documentación técnica profesional.
-
----
-
-## 🧩 Estructura del Repositorio 📂
-
-### 📘 Módulo 1 — Fundamentos de Programación Avanzada  
-- Conceptos avanzados de programación orientada a objetos  
-- Principios SOLID y patrones de diseño  
-- Manejo de excepciones y archivos  
-- Introducción al control de versiones con Git y GitHub  
-
-### 🔧 Módulo 2 — Estructuras de Datos y Algoritmos  
-- Listas, pilas, colas, árboles y grafos  
-- Algoritmos de ordenamiento y búsqueda  
-- Complejidad algorítmica y optimización  
-
-### 🤝 Módulo 3 — Desarrollo Colaborativo y Buenas Prácticas  
-- Flujo de trabajo con Git (branches, commits, pull requests)  
-- Documentación técnica con Markdown  
-- Integración de proyectos colaborativos  
-
-### 🧮 Módulo 4 — Proyecto Final  
-- Desarrollo de una aplicación completa integrando los conceptos aprendidos  
-- Presentación y documentación del código  
-- Evaluación final de desempeño individual y grupal  
-
----
-
-## 💻 Cómo Usar Este Repositorio
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/usuario/Grupo10_Ramos_Solano.git
-   cd Grupo10_Ramos_Solano
-   ```
-
-2. **Explorar el contenido**:  
-   Navega por las carpetas de cada módulo para acceder a los códigos fuente, documentación y recursos del curso.
-
-3. **Contribuir**:  
-   Si eres parte del grupo o colaborador del curso, puedes proponer mejoras o agregar ejercicios.  
-   Crea una nueva rama para tus cambios:
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   ```
-   Realiza tus cambios y guarda:
-   ```bash
-   git commit -m "Agrega nueva funcionalidad o mejora de código"
-   ```
-   Luego sube tu contribución:
-   ```bash
-   git push origin feature/nueva-funcionalidad
-   ```
-   Finalmente, abre un **Pull Request** hacia el repositorio principal. ✅
-
----
-
-## ⚙️ Requisitos  
-- 👅**Lenguajes base:** HTML/ CSS/ JavaScript/ Nest.js / Next.js /Python 
-- **Entorno recomendado:**  
-  - Visual Studio Code  
-  - Git Bash / GitHub Desktop  
-  - Jupyter Notebook (para análisis o pseudocódigo)  
-
-- **Bibliotecas sugeridas (según lenguaje):**  
-  - Python: `numpy`, `pandas`, `matplotlib`  
-  - HTML
-  - CSS
-  - JavaScript
-  - Nest.js
-  - Next.js
-
----
-
-## 📚 Recursos Adicionales  
-- [Documentación oficial de Python](https://docs.python.org/3/)  
-- [Documentación oficial de C++](https://cplusplus.com/doc/tutorial/)  
-- [Documentación oficial de Java](https://docs.oracle.com/javase/tutorial/)  
-- [Guía de Markdown para documentación](https://www.markdownguide.org/)  
-- [Curso Git y GitHub](https://www.coursera.org/learn/introduction-git-github)  
-- [Patrones de Diseño en Programación](https://refactoring.guru/es/design-patterns)  
+# 💻 Sofware de Automatizacion  — Grupo 10 ️😁🤖
 
 
+# 🤖 Proyecto de Automatización Inteligente con n8n
+
+## 📋 Descripción General
+Implementación de agentes de inteligencia artificial mediante n8n para automatizar procesos empresariales, integrando modelos avanzados de IA y herramientas colaborativas de forma ética, eficiente y escalable. ✨
+
+## 🎯 Justificación
+En el contexto actual de transformación digital, las organizaciones demandan profesionales capaces de implementar soluciones de automatización inteligente que optimicen procesos y reduzcan costos operativos. Este proyecto desarrolla competencias prácticas en el diseño, implementación y optimización de agentes de inteligencia artificial y flujos de trabajo automatizados utilizando n8n como plataforma principal. 🚀
+
+## 🎯 Objetivo General
+Implementar agentes de inteligencia artificial mediante n8n para automatizar procesos empresariales, integrando modelos avanzados de IA y herramientas colaborativas de forma ética, eficiente y escalable. ⚙️
+
+## ✅ Objetivos Específicos
+- 🔍 Analizar procesos empresariales para identificar oportunidades de automatización mediante agentes de IA, sistemas RAG y bases de datos vectoriales.
+- 🛠️ Configurar y desplegar agentes de inteligencia artificial personalizados en n8n, integrando modelos de IA (OpenAI, Google, Microsoft, Hugging Face, DeepSeek) con plataformas de comunicación y herramientas empresariales.
+- 📈 Optimizar y evaluar soluciones de automatización inteligente, considerando criterios de eficiencia, escalabilidad, fiabilidad y aspectos éticos en su implementación empresarial.
+
+## 💪 Competencias Desarrolladas
+- 🧠 Diseño e implementación de flujos de trabajo automatizados en n8n
+- 🤖 Integración de modelos de IA (OpenAI, Google, Microsoft, Hugging Face, DeepSeek)
+- 📚 Implementación de sistemas RAG con bases de datos vectoriales (Supabase, Pinecone)
+- 💬 Despliegue de agentes conversacionales en WhatsApp, Slack y Telegram
+- 🔌 Integración con herramientas empresariales: Airtable, Make, Zapier, Google Sheets, Notion, Slack
+- ⚡ Optimización y escalabilidad de soluciones de automatización inteligente
+
+## 📚 Contenido Temático
+- 📌 **Unidad 0:** Acuerdo Pedagógico y Diagnóstico
+- 🏗️ **Unidad 1:** Fundamentos de n8n y Automatización
+- 🔄 **Unidad 2:** Automatización de Procesos Empresariales
+- 🧠 **Unidad 3:** Agentes de Inteligencia Artificial con n8n
+- 🗄️ **Unidad 4:** Sistemas RAG y Bases de Datos Vectoriales
+- 📱 **Unidad 5:** Despliegue de Agentes en Plataformas de Comunicación
+- 🏆 **Unidad 6:** Casos Prácticos y Optimización de Soluciones
+
+## 📊 Resultados de Aprendizaje
+🎯 Implementa agentes de inteligencia artificial mediante n8n para automatizar procesos empresariales en un entorno colaborativo y ético.
 
 ## 👩‍💻 Integrantes del Grupo  
- Nombre completo  Rol  Programa académico 
-**Isabella Ramos Betancourt** Desarrolladora y analista - Ingeniería Mecatrónica 
- **Julian Andres Solano Ledesma**  Desarrollador y diseñador de soluciones - Ingeniería Mecatrónica 
+ Nombre completo   Programa académico 
+**Isabella Ramos Betancourt**  - Ingeniería Mecatrónica 
+ **Julian Andres Solano Ledesma**  - Ingeniería Mecatrónica  uwu
 
 
-## 👨‍🏫 Docente y Datos Académicos  
+## 👥 Autores
+
+**👩‍🏫 Decanatura**
+- Ing. Ana Lucía Paque Salazar – Decana
+
+**👨‍🏫 Docente y Datos Académicos**  
 - **Docente:** Julián Andrés Quimbayo Castro
 - **Asignatura:** Programación Avanzada 
 - **Codigo:** 83049
 - **Programa:** Ingeniería Mecatrónica  
-- **Semestre Académico:** 5° semestre  
-- **Grupo:** 10
 
----
+
+
+**🏛️ Institución**
+- Corporación Universitaria del Huila CORHUILA
+- Institución Universitaria Vigilada MINEDUCACIÓN
+- Personería Jurídica Res. Ministerio de Educación No. 21000 de diciembre 22 de 1989
+
 
 ## ⚖️ Licencia  
 Este proyecto está licenciado bajo la **Licencia MIT**, lo que permite su uso, modificación y distribución con fines académicos y educativos.
@@ -112,6 +70,6 @@ Este proyecto está licenciado bajo la **Licencia MIT**, lo que permite su uso, 
 ## 💬 🧐 Contacto: 
 Para consultas o colaboración, puedes comunicarte con los integrantes del grupo a través de sus correos institucionales o Github.
 
-📍 *Universidad Corporacion Universitaria del Huila CORHUILA 
-📅 *Semestre académico:  5° Semestre*  
-👥*Grupo 10 — Programación Avanzada*
+
+
+⭐ Proyecto desarrollado en el marco de la asignatura Software de Automatización - Ingeniería Mecatrónica
